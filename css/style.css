@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+body
+{
+    font-family: 'Roboto', sans-serif;
+}
+.top
+{
+    background: #85e5ee;
+    color: black;
+}
+.left
+{
+    font-size: small;
+    font-weight: 500;
+}
+.far
+{
+    font-size: medium;
+}
+.fab
+{
+    font-size: large;
+}
+.bg-light
+{
+    background: white !important;
+}
+.btn
+{
+    background: #22b6af !important;
+    color: white;
+    font-weight: 600;
+    border: none !important;
+    font-family: 'Jost', sans-serif;
+font-size: small;
+outline: none !important;
+   
+}
+.nav-link
+{
+    color: #242b2b !important;
+    font-family: 'Jost', sans-serif;
+    font-size: medium;
+  
+   
+}
+.navbar-light .navbar-nav .nav-link
+{
+    padding: 25px;
+}
+
+.nav-link:hover
+{
+    color:#22b6af !important ;
+}
+.yo
+{
+    height: 500vh;
+}
+.nepal
+{
+    width: 20px;
+    margin-bottom: 10px;
+}
+.sticky-top
+{
+    border-bottom: 1px solid #eaeaea;
+}
+.youth
+{
+    background-size: cover;
+ 
+    width: 100%;
+    height: 100vh;
+
+}
